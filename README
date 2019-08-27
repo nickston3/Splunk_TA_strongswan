@@ -1,1 +1,4 @@
-Splunk Technology Add-on for Strongswan VPN
+*Splunk Technology Add-on for Strongswan VPN*
+strongSwan is an OpenSource IPsec implementation launched in 2005. strongSwan originally was designed for Linux, but has since been ported to Android, FreeBSD, Mac OS X, Windows and other platforms.
+
+This technology add-on aims to provide search-time knowledge objects to enhance investigations with strongSwan and Splunk.
